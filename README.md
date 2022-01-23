@@ -1,5 +1,5 @@
 # Resume
 
 <div align="center">
-    <img src="Hassan-Resume.png" >
+   <a href="https://github.com/hassan-zafar/Resume/blob/main/Hassan's%20Resume.pdf"> <img src="Hassan-Resume.png" ></a>
   </div>
